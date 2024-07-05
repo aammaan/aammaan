@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
-<h3 align="center">Senior CSE student at IIIT Delhi</h3>
+<h3 align="center">Enthusiastic about exploring computer science, with a keen interest in Machine learning.</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
